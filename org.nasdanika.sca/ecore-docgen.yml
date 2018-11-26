@@ -1,0 +1,5 @@
+models:
+  - model/sca.genmodel
+          
+output:
+  site: /org.nasdanika.sca.repository/gen-doc/site

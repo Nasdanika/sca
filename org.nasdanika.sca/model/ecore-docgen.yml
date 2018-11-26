@@ -1,0 +1,5 @@
+models:
+  - sca.ecore
+          
+output:
+  site: /org.nasdanika.sca.repository/gen-doc/site
